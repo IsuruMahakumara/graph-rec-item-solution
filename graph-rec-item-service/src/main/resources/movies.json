@@ -1,0 +1,32 @@
+[
+    {
+      "id": 101,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "rating": 8.8,
+      "releaseYear": 2010
+    },
+    {
+      "id": 102,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "rating": 9.0,
+      "releaseYear": 2008
+    },
+    {
+      "id": 103,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "rating": 8.6,
+      "releaseYear": 2014
+    },
+    {
+      "id": 104,
+      "title": "The Matrix",
+      "genre": "Action",
+      "rating": 8.7,
+      "releaseYear": 1999
+    }
+
+    
+  ]
